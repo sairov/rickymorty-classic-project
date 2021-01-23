@@ -8,4 +8,4 @@
 
 ### >SASS
 
-# -[LIVE DEMO](https://rickandmorty-test-site.netlify.app/)
+-[LIVE DEMO](https://rickandmorty-test-site.netlify.app/)
