@@ -1,7 +1,7 @@
-#Proyecto de aprendizaje - API Rick y Morty
+# Proyecto de aprendizaje - API Rick y Morty
 
-##Tecnologías utilizadas:
+## Tecnologías utilizadas:
 
-###>React
-###>Webpack
-###>SASS
+### >React
+### >Webpack
+### >SASS
