@@ -1,9 +1,7 @@
 const path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
-const json5 = require('json5');
-const toml = require('toml');
-const yaml = require('yamljs');
+
 
 
 module.exports = {
